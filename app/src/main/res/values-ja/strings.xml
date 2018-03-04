@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- App Data -->
+    <string name="app_name">ジャスト・ジャヴァ</string>
+
+    <!-- Layout -->
+    <string name="name">名前</string>
+    <string name="toppings">トッピング</string>
+    <string name="whipped_cream">ホイップクリーホイム</string>
+    <string name="chocolate">チョコレート</string>
+    <string name="quantity">杯</string>
+    <string name="order">注文する</string>
+
+    <!-- Toast -->
+    <string name="increase_limit">これ以上ダメ</string>
+    <string name="decrease_limit">これ以下ダメ</string>
+
+    <!-- Order Info -->
+    <string name="order_summary_msg_subject"><xliff:g id="name" example="Yeezy">%s</xliff:g>への注文</string>
+    <string name="order_summary_name">名前：<xliff:g id="name" example="Yeezy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">ホイップクリーホイム付き？</string>
+    <string name="order_summary_chocolate">チョコレート付き？</string>
+    <string name="order_summary_quantity">杯数：<xliff:g id="quantity" example="3">%s</xliff:g></string>
+    <string name="order_summary_total">合計：<xliff:g id="total" example="5">%s</xliff:g></string>
+    <string name="thank_you">ありがとう！</string>
+</resources>
